@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimaryDarkTrans">#CCf57257</color>
+
+    <color name="details_back">#F8F8F8</color>
+    <color name="details_text">#FFC001</color>
+
+    <color name="pink_top">#FF5A54</color>
+    <color name="pink_button">#FF6A69</color>
+    <color name="pink_edit">#FFDEDD</color>
+
+    <color name="gray_homeback">#F2F2F2</color>
+
+    <color name="white">#FFF</color>
+
+    <color name="black">#000</color>
+
+    <color name="login_top">#F8F8F8</color>
+    <color name="login_back">#F2F2F2</color>
+    <color name="login_bt_back1">#CACACA</color>
+    <color name="login_bt_text1">#A1A1A1</color>
+
+    <color name="login_register">#EDA200</color>
+
+</resources>

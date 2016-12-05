@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">红孩子母婴</string>
+    <string name="tiaoguo">跳过</string>
+    <string name="lijijinru">立即进入</string>
+    <string name="haoqi">好奇</string>
+    <string name="sousuo">搜索</string>
+    <string name="cuoguo">到底啦，明天10点1元秒杀，千万别错过哦~</string>
+    <string name="shangping">商品</string>
+    <string name="xiangqing">详情</string>
+    <string name="pinjia">评价</string>
+    <string name="tuwen">图文详情</string>
+    <string name="guige">规格参数</string>
+    <string name="baozhuang">包装售后</string>
+    <string name="account"> 账 号 </string>
+    <string name="password"> 密 码 </string>
+    <string name="forgetpass">忘记密码</string>
+    <string name="register_bt">免费注册</string>
+    <string name="other_login">其他方式登录</string>
+    <string name="vip_login">门店会员卡</string>
+    <string name="login">登录</string>
+    <string name="register">验证手机号</string>
+    <string name="Mobile_number">手机号</string>
+    <string name="clause_text">同意苏宁易购会员章程和易付宝协议</string>
+    <string name="next">下一步</string>
+</resources>
+
